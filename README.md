@@ -40,3 +40,4 @@ Final Analysis:
 I provided a summary of the study results based on the findings from the data analysis tasks.
 This analysis included insights such as the performance of different treatment regimens, distribution of mice by sex, and correlations between mouse weight and tumor volume.
 Overall, I successfully performed data analysis and visualization tasks to analyze the efficacy of different treatment regimens for squamous cell carcinoma (SCC) and gained valuable insights into the dataset provided.
+
